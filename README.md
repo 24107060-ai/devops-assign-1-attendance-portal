@@ -32,3 +32,11 @@ Serve the `dist/` folder with any static web server, for example `python -m http
 ## Data limits
 
 This is a learning prototype, not a production student-record system. It has no login, server-side database, access control, or multi-device sync. Data stays in the current browser profile.
+
+
+## Git Workflow Demonstration
+
+- Created a feature branch for attendance improvements.
+- Used Git commits to track project changes.
+- Used a Pull Request to merge changes into the main branch.
+- Automated testing and deployment using GitHub Actions.
